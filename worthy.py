@@ -2,7 +2,7 @@
 Worthy CLI app.
 """
 
-import pandas as pd
+# import pandas as pd
 
 
 def decorate(s:str) -> None:
